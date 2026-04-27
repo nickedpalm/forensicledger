@@ -1,0 +1,29 @@
+[
+  {
+    "slug": "barnes-wendling-cpas-cleveland",
+    "name": "Barnes Wendling CPAs",
+    "city": "Cleveland",
+    "state": "OH",
+    "address": "",
+    "lat": 41.4996574,
+    "lng": -81.6936772,
+    "phone": "1776284993",
+    "website": "https://www.barneswendling.com",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Provides forensic accounting investigations to analyze financial data, uncover unlawful activity, and offer expert testimony in negotiations, debates, or court.",
+    "certifications": [],
+    "services": [],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 15:01:59",
+    "sentiment": null
+  }
+]

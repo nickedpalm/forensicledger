@@ -1,0 +1,50 @@
+[
+  {
+    "question": "How much does a forensic accountant cost?",
+    "answer": "Forensic accountants typically bill $300\u2013$600 per hour for senior experts, with junior staff at $150\u2013$300. Total engagement costs range from $10,000 for a focused review to $100,000+ for complex litigation involving multiple entities or years of records. Expect a retainer upfront. Rates vary by market, credentials, and whether trial testimony is required."
+  },
+  {
+    "question": "How much does a forensic accountant expert witness cost?",
+    "answer": "Expert witness engagements typically run $400\u2013$700 per hour for deposition and trial testimony, often higher than analytical work. Total costs including report preparation, deposition prep, and trial appearance commonly reach $25,000\u2013$75,000. Some experts charge a flat fee for reports separately from testimony. Get a written scope and rate schedule before engagement."
+  },
+  {
+    "question": "What is a reasonable retainer for a forensic accountant?",
+    "answer": "Initial retainers typically range from $5,000 to $25,000 depending on case complexity, with replenishment required as work progresses. Retainers are applied against billed hours. For large commercial litigation, some firms require $50,000+. A lower retainer isn't always better \u2014 it may signal the expert underestimates the scope, leading to billing disputes mid-case."
+  },
+  {
+    "question": "What credentials should a forensic accountant have?",
+    "answer": "The Certified Fraud Examiner (CFE) and Certified in Financial Forensics (CFF) designations are the most recognized. CPA licensure is standard. For damages work, look for CPAs with CFF; for fraud investigations, CFEs are preferred. Prior Big Four or federal agency experience (FBI, IRS, SEC) adds credibility. Academic credentials matter less than demonstrated courtroom and report experience."
+  },
+  {
+    "question": "How do I find a forensic accountant qualified to testify as an expert witness?",
+    "answer": "Start with referrals from colleagues who have retained experts in similar case types. The AICPA's expert directory and NACVA member listings are vetted starting points. Review the expert's CV for prior testimony history, Daubert challenges survived, and publications. Ask for a redacted prior report and a list of cases where they testified in the last four years."
+  },
+  {
+    "question": "How long does a forensic accounting investigation take?",
+    "answer": "Simple fraud reviews or single-year damages calculations can be completed in 4\u20138 weeks. Complex multi-entity commercial disputes, business interruption claims, or fraud spanning several years typically take 3\u20136 months. Timeline depends heavily on document volume, cooperation from opposing parties, and court scheduling. Delays in document production are the most common bottleneck."
+  },
+  {
+    "question": "What documents does a forensic accountant need to calculate damages?",
+    "answer": "At minimum: tax returns, general ledgers, bank statements, and financial statements for the relevant period. Commercial litigation typically also requires contracts, invoices, payroll records, and industry benchmarking data. Fraud cases may require email archives and access to accounting software. Incomplete records don't block an engagement \u2014 forensic accountants are trained to work with incomplete data and document gaps."
+  },
+  {
+    "question": "What is the difference between a forensic accountant and a regular CPA?",
+    "answer": "A regular CPA prepares and audits financial statements under GAAP. A forensic accountant is trained to investigate financial irregularities, reconstruct records, calculate economic damages, and withstand cross-examination. Most forensic accountants are CPAs, but not all CPAs have forensic training. The key difference is litigation readiness \u2014 forensic experts know how to structure findings for a judge or jury."
+  },
+  {
+    "question": "Can a forensic accountant work for both plaintiff and defense?",
+    "answer": "Yes, most qualified forensic accountants work for both sides depending on the case. What matters is whether they were retained first on a given matter \u2014 they cannot switch sides mid-case. Some experts specialize in one side for strategic reasons, but dual-side experience is generally a sign of credibility, not a conflict, and holds up better under cross-examination."
+  },
+  {
+    "question": "Will opposing counsel try to disqualify our forensic accounting expert?",
+    "answer": "Daubert challenges to forensic accounting experts are common, particularly attacking methodology and data reliability. Experts who rely on non-peer-reviewed methods or make unsupported assumptions are most vulnerable. Choosing an expert with published methodology, prior Daubert experience, and case-specific documentation of assumptions significantly reduces disqualification risk. Review their prior challenge history before retention."
+  },
+  {
+    "question": "What's the difference between a forensic accountant and a damages expert?",
+    "answer": "The terms overlap significantly. A damages expert quantifies financial harm for litigation \u2014 lost profits, lost wages, business valuation disputes. A forensic accountant may also investigate fraud, trace assets, or reconstruct records. In practice, most commercial litigation experts do both. When retaining for a damages case, verify the expert has specific experience with your damages theory, not just general forensic work."
+  },
+  {
+    "question": "Can a forensic accountant help with insurance claims disputes?",
+    "answer": "Yes \u2014 forensic accountants are routinely retained by insurers to verify business interruption claims, fidelity bond losses, and property damage valuations. They analyze submitted financials against tax records and industry data to identify inconsistencies. Insurers use them pre-litigation to inform coverage decisions; policyholders use them to rebut coverage denials. The same expert can rarely work both sides of the same claim."
+  }
+]

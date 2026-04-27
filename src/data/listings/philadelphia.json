@@ -1,0 +1,35 @@
+[
+  {
+    "slug": "mdd-forensic-accountants-philadelphia",
+    "name": "MDD Forensic Accountants",
+    "city": "Philadelphia",
+    "state": "PA",
+    "address": "",
+    "lat": 39.9526,
+    "lng": -75.1652,
+    "phone": "+1 215.238.1919",
+    "website": "https://www.mdd.com/locations/philadelphia/",
+    "email": "bryden@mdd.com",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Forensic accountants focusing on investigation and evaluation of economic damages from physical damages, casualty loss, business interruption, lost profits and subrogation matters, serving Pennsylvania.",
+    "certifications": [],
+    "services": [
+      "economic damages evaluation",
+      "casualty loss",
+      "business interruption",
+      "lost profits",
+      "subrogation"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 15:01:46",
+    "sentiment": null
+  }
+]

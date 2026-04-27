@@ -1,0 +1,35 @@
+[
+  {
+    "slug": "kerkering-barberio-co-tampa",
+    "name": "Kerkering, Barberio & Co.",
+    "city": "Tampa",
+    "state": "FL",
+    "address": "",
+    "lat": 27.9506,
+    "lng": -82.4572,
+    "phone": "1777216713",
+    "website": "https://kbgrp.com",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "CPA firm offering forensic accounting, litigation support, and expert witness services in Sarasota and Tampa.",
+    "certifications": [],
+    "services": [
+      "forensic accounting",
+      "litigation support",
+      "expert witness",
+      "business valuation",
+      "fraud examination"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 15:01:19",
+    "sentiment": null
+  }
+]

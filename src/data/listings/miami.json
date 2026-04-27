@@ -1,0 +1,115 @@
+[
+  {
+    "slug": "fiske-company-miami",
+    "name": "Fiske & Company",
+    "city": "Miami",
+    "state": "FL",
+    "address": "",
+    "lat": 25.7741566,
+    "lng": -80.1935973,
+    "phone": "0384615385",
+    "website": "https://fiskeco.com",
+    "email": "info@fiskeco.com",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "CPA and forensic accounting firm offering expert forensic tax services and litigation support, established in 1972.",
+    "certifications": [],
+    "services": [
+      "forensic tax services",
+      "litigation support",
+      "business valuation",
+      "asset protection"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 15:01:19",
+    "sentiment": null
+  },
+  {
+    "slug": "kaufman-rossin-miami",
+    "name": "Kaufman Rossin",
+    "city": "Miami",
+    "state": "FL",
+    "address": "",
+    "lat": 25.7617,
+    "lng": -80.1918,
+    "phone": "888.680.5726",
+    "website": "https://kaufmanrossin.com",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "CPA and advisory firm providing investigative and forensic accounting services to protect businesses and analyze data.",
+    "certifications": [],
+    "services": [
+      "forensic accounting",
+      "investigative services",
+      "fraud investigation",
+      "data analysis"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 15:01:19",
+    "sentiment": {
+      "label": "positive",
+      "score": 0.85,
+      "keywords": [
+        "independence",
+        "accountability",
+        "client-focused",
+        "people-oriented",
+        "values-driven"
+      ],
+      "highlights": [
+        {
+          "text": "Independence allows us to stay accountable to our clients and our people, not outside investors.",
+          "sentiment": "positive"
+        }
+      ],
+      "summary": "Kaufman Rossin emphasizes its independence and unwavering commitment to accountability to both clients and employees, reflecting a principled, values-driven organizational culture."
+    }
+  },
+  {
+    "slug": "the-forensic-consulting-group-llc-miami",
+    "name": "The Forensic Consulting Group, LLC",
+    "city": "Miami",
+    "state": "FL",
+    "address": "",
+    "lat": 25.7617,
+    "lng": -80.1918,
+    "phone": "800-581-5537",
+    "website": "https://www.floridaforensicaccounting.com",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Forensic accounting firm specializing in fraud investigation, litigation support, and audit services.",
+    "certifications": [],
+    "services": [
+      "fraud investigation",
+      "litigation support",
+      "audit services",
+      "expert witness testimony"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 15:01:19",
+    "sentiment": null
+  }
+]

@@ -1,0 +1,164 @@
+generated_at: '2026-04-27T02:41:17+00:00'
+refs:
+  cf.d1_db:
+    extra:
+      binding_name: LEADS_DB
+    id: 19a7cda5-4b14-4a2b-ba6d-06199d1909b5
+    kind: cf.d1_db
+    name: directory_forensicledger
+  cf.dns_records:
+    extra:
+      content: forensicledger.pages.dev
+      zone_id: 1cfbbc77f0249256b877796d72a4c380
+    id: c592436b582f76c49854d84058e456b4
+    kind: cf.dns_records
+    name: forensicledger.com
+  cf.email_routing:
+    extra:
+      enabled: true
+    id: 1cfbbc77f0249256b877796d72a4c380
+    kind: cf.email_routing
+    name: forensicledger.com
+  cf.pages_project:
+    extra:
+      subdomain: forensicledger.pages.dev
+    id: forensicledger
+    kind: cf.pages_project
+    name: forensicledger
+  cf.r2_bucket:
+    extra:
+      binding_name: PHOTOS
+    id: forensicledger-photos
+    kind: cf.r2_bucket
+    name: forensicledger-photos
+  cf.turnstile:
+    extra:
+      secret: ''
+    id: 0x4AAAAAADD-t6zsjm7wwhpg
+    kind: cf.turnstile
+    name: forensicledger
+  content.enrich:
+    extra:
+      exported: 137
+    id: /home/nick/directory-factory/factory/verticals/forensicledger/src/data/listings
+    kind: content.enrich
+    name: forensicledger
+  content.faqs:
+    extra:
+      count: 12
+    id: /home/nick/directory-factory/factory/verticals/forensicledger/src/data/faqs.json
+    kind: content.faqs
+    name: forensicledger
+  content.generate:
+    extra:
+      blog_posts: 17
+      cities: 68
+    id: /home/nick/directory-factory/factory/verticals/forensicledger/src/content
+    kind: content.generate
+    name: forensicledger
+  content.images:
+    extra:
+      articles: '17'
+      cities: '68'
+    id: /home/nick/directory-factory/factory/verticals/forensicledger/images.json
+    kind: content.images
+    name: forensicledger
+  content.interlink:
+    extra:
+      stamp_mtime: '1777233619.2857752'
+    id: /home/nick/directory-factory/factory/verticals/forensicledger/.interlink-stamp
+    kind: content.interlink
+    name: forensicledger
+  content.lead_magnets:
+    extra:
+      count: 3
+    id: /home/nick/directory-factory/factory/verticals/forensicledger/src/data/guides.json
+    kind: content.lead_magnets
+    name: forensicledger
+  content.scrape:
+    extra:
+      count: 137
+    id: /home/nick/directory-factory/factory/verticals/forensicledger/pipeline.db
+    kind: content.scrape
+    name: forensicledger
+  d1.migrations:
+    extra:
+      applied: 8
+    id: directory_forensicledger
+    kind: d1.migrations
+    name: forensicledger
+  ga4.property:
+    extra:
+      measurement_id: G-PQVT19J48V
+    id: G-PQVT19J48V
+    kind: ga4.property
+    name: forensicledger
+  github.repo:
+    extra: {}
+    id: nickedpalm/forensicledger
+    kind: github.repo
+    name: nickedpalm/forensicledger
+  gsc.verify:
+    extra:
+      api_verified: true
+      content: google-site-verification=F9VIgxPtNJKYp8ItlsdAXTJlMeAON0iz_nylFv3nDpU
+    id: 0d47d196f4e0f472647109a171d17108
+    kind: gsc.verify
+    name: forensicledger.com
+  listmonk.api_user:
+    extra:
+      password: mZFoWeYjuZ9USZQIfBQBvWkihnuKnQx_
+    id: forensicledger-api
+    kind: listmonk.api_user
+    name: forensicledger-api
+  listmonk.list:
+    extra: {}
+    id: '11'
+    kind: listmonk.list
+    name: ForensicLedger Newsletter
+  listmonk.templates:
+    extra:
+      guide_delivery: '67'
+      lead_notify: '66'
+      magic_link: '65'
+    id: 65,66,67
+    kind: listmonk.templates
+    name: forensicledger
+  local.colors:
+    extra:
+      primary: '#687a97'
+    id: /home/nick/directory-factory/factory/verticals/forensicledger/colors.json
+    kind: local.colors
+    name: forensicledger
+  local.logos:
+    extra:
+      copied: 11
+    id: /home/nick/directory-factory/factory/verticals/forensicledger/public
+    kind: local.logos
+    name: forensicledger
+  local.scaffold:
+    extra:
+      domain: forensicledger.com
+    id: /home/nick/directory-factory/factory/verticals/forensicledger/vertical.json
+    kind: local.scaffold
+    name: forensicledger
+  local.template_sync:
+    extra:
+      count: '20'
+      synced: src/components,src/pages,src/layouts,src/utils,src/lib,src/scripts,src/types,src/assets/styles,src/assets/fonts,_functions,migrations,src/config.ts,src/env.d.ts,src/types.d.ts,src/navigation.ts,astro.config.ts,tailwind.config.js,tsconfig.json,public/_headers,public/_redirects
+    id: /home/nick/directory-factory/factory/verticals/forensicledger
+    kind: local.template_sync
+    name: forensicledger
+  ses.domain_verify:
+    extra:
+      dkim_count: 3
+    id: forensicledger.com
+    kind: ses.domain_verify
+    name: forensicledger.com
+  stripe.sync:
+    extra:
+      city_pro_product_id: prod_UFN1mvO2w9rLGh
+      featured_product_id: prod_UFN1ZQblLB1inS
+    id: prod_UFN1ZQblLB1inS
+    kind: stripe.sync
+    name: forensicledger

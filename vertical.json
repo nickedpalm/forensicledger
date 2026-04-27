@@ -1,0 +1,167 @@
+{
+  "name": "Forensic Accountants",
+  "brandName": "ForensicLedger",
+  "slug": "forensicledger",
+  "domain": "forensicledger.com",
+  "siteUrl": "https://forensicledger.com",
+  "tagline": "Credentialed forensic accountants, independently vetted.",
+  "description": "The most comprehensive directory of CFF- and CFE-credentialed forensic accountants, fraud investigators, and litigation support specialists in the United States.",
+  "jobValue": "$5,000-75,000 per engagement",
+  "industry": "legal",
+  "primaryKeyword": "forensic accountant",
+  "secondaryKeywords": [
+    "forensic accounting services",
+    "fraud investigation accountant",
+    "litigation support accountant",
+    "financial damages expert",
+    "expert witness accountant",
+    "business valuation expert"
+  ],
+  "certifications": [
+    "CFF (Certified in Financial Forensics \u2014 AICPA)",
+    "CFE (Certified Fraud Examiner \u2014 ACFE)",
+    "CVA (Certified Valuation Analyst \u2014 NACVA)",
+    "ABV (Accredited in Business Valuation \u2014 AICPA)",
+    "MAFF (Master Analyst in Financial Forensics \u2014 NACVA)",
+    "CPA (Certified Public Accountant)"
+  ],
+  "extraFields": [],
+  "cityPagePromptContext": "Forensic accountants provide litigation support, fraud investigation, and financial damages analysis for legal proceedings.\nCredentialed professionals (CFF, CFE, CVA, ABV) analyze financial records,\nreconstruct transactions, calculate economic damages, and testify as expert\nwitnesses. Trial attorneys and insurers retain them for commercial disputes,\ndivorce proceedings, insurance claims, embezzlement cases, and business\ninterruption claims. Engagement deliverables include expert reports quantifying\nfinancial losses, identifying irregularities, and supporting or rebutting\ndamages claims in court.\n",
+  "contactEmail": "contact@forensicledger.com",
+  "buyerPersona": "trial attorneys and insurers",
+  "servicePhrase": "forensic accounting",
+  "primaryCredential": "CFF",
+  "buyerSearchContext": "when building a financial damages case, investigating suspected fraud, or retaining a qualified expert witness for commercial litigation",
+  "editorialAuthor": {
+    "name": "Nick Palmer",
+    "title": "Founder & Lead Researcher",
+    "bio": "Nick built this directory to help trial attorneys find credentialed forensic accountants without wading through general CPAs who overstate their litigation experience \u2014 a gap he encountered when trying to source a qualified damages expert for a commercial dispute.",
+    "linkedin": "https://linkedin.com/in/nickedpalmer"
+  },
+  "stripeSponsoredLink": "",
+  "stripeCityProLink": "",
+  "stripeFeaturedMonthlyLink": "https://buy.stripe.com/dRmdR80YO7lCgxSe6Ja3u3Y",
+  "stripeFeaturedAnnualLink": "https://buy.stripe.com/fZuaEWePE49q0yU5Ada3u3Z",
+  "stripeCityProMonthlyLink": "https://buy.stripe.com/4gMcN48rg9tK3L68Mpa3u40",
+  "stripeCityProAnnualLink": "https://buy.stripe.com/bJe4gy36WdK0dlG4w9a3u41",
+  "stripeFeaturedProductId": "prod_UFN1ZQblLB1inS",
+  "stripeCityProProductId": "prod_UFN1mvO2w9rLGh",
+  "stripeFeaturedMonthlyPriceId": "price_1TQf6hCIgRyRDQ2P1KfRxgjg",
+  "stripeFeaturedAnnualPriceId": "price_1TQf6iCIgRyRDQ2PhjyIburG",
+  "stripeCityProMonthlyPriceId": "price_1TQf6kCIgRyRDQ2PjhBPQ1ci",
+  "stripeCityProAnnualPriceId": "price_1TQf6lCIgRyRDQ2PFXFYeyXI",
+  "pricing": {
+    "featuredMonthlyUsd": 49,
+    "featuredAnnualUsd": 441,
+    "cityProMonthlyUsd": 149,
+    "cityProAnnualUsd": 1341
+  },
+  "listmonkListId": "11",
+  "listmonkTplMagicLink": "65",
+  "listmonkTplLeadNotify": "66",
+  "listmonkTplGuideDelivery": "67",
+  "ga4MeasurementId": "G-PQVT19J48V",
+  "turnstileSitekey": "",
+  "turnsiteSitekey": "",
+  "googleAnalyticsId": "G-PQVT19J48V",
+  "foundedYear": 2026,
+  "listings": {
+    "schema": [
+      {
+        "key": "cpa_licensed",
+        "type": "boolean",
+        "label": "State Licensed CPA",
+        "display": "badge",
+        "facet": true,
+        "scrape_hint": "Look for active CPA license numbers, state board of accountancy credentials, or explicit mentions of licensure (e.g., 'Texas CPA License #12345') on homepage, bio page, or footer."
+      },
+      {
+        "key": "years_experience",
+        "type": "number",
+        "label": "Years of Experience",
+        "display": "range",
+        "facet": false,
+        "unit": "years",
+        "scrape_hint": "Extract from 'About Us', attorney bios, or '20+ years in forensic accounting' statements; calculate from founding year if business start date is provided."
+      },
+      {
+        "key": "certifications",
+        "type": "multi_enum",
+        "label": "Professional Certifications",
+        "display": "pill_list",
+        "facet": true,
+        "enum": [
+          "CFF",
+          "CFE",
+          "CVA",
+          "ABV",
+          "MAFF",
+          "CPA"
+        ],
+        "scrape_hint": "Scan credentials sections, team bios, or logo badges for AICPA, ACFE, NACVA designations; match exact acronyms and full credential names."
+      },
+      {
+        "key": "expert_witness_qualified",
+        "type": "boolean",
+        "label": "Qualified Expert Witness",
+        "display": "badge",
+        "facet": true,
+        "scrape_hint": "Check for mentions of 'expert witness', 'trial testimony', 'Daubert qualified', 'deposition experience', or case references listing courtroom appearances in services or bio pages."
+      },
+      {
+        "key": "independent_from_counsel",
+        "type": "boolean",
+        "label": "Independent (No Counsel Affiliation)",
+        "display": "badge",
+        "facet": true,
+        "scrape_hint": "Look for statements like 'retained by both plaintiff and defense', 'neutral expert', 'court-appointed', or absence of ongoing retainer relationships with specific law firms in firm descriptions."
+      },
+      {
+        "key": "report_turnaround",
+        "type": "enum",
+        "label": "Report Turnaround Time",
+        "display": "text",
+        "facet": true,
+        "enum": [
+          "Under 2 Weeks",
+          "2-4 Weeks",
+          "4-8 Weeks",
+          "Case Dependent"
+        ],
+        "scrape_hint": "Extract from service descriptions, FAQs, or engagement process sections; look for phrases like 'preliminary report in 10 business days' or 'timeline depends on document volume'."
+      },
+      {
+        "key": "practice_areas",
+        "type": "multi_enum",
+        "label": "Practice Areas",
+        "display": "pill_list",
+        "facet": true,
+        "enum": [
+          "Fraud Investigation",
+          "Economic Damages",
+          "Business Valuation",
+          "Insurance Claims",
+          "Matrimonial/Divorce",
+          "Commercial Litigation"
+        ],
+        "scrape_hint": "Parse services menu, homepage offerings, or industry-specific pages; match keywords like 'lost profits', 'business interruption', 'marital asset tracing', 'insurance subrogation', or 'shareholder dispute'."
+      },
+      {
+        "key": "phone",
+        "type": "phone",
+        "label": "Phone Number",
+        "display": "text",
+        "facet": false,
+        "scrape_hint": "Extract from header, footer, contact page, or click-to-call buttons; normalize to standard format (e.g., (555) 123-4567)."
+      },
+      {
+        "key": "website",
+        "type": "url",
+        "label": "Website",
+        "display": "link",
+        "facet": false,
+        "scrape_hint": "Capture primary domain from browser address bar, homepage links, or business listings; ensure full URL with https:// protocol."
+      }
+    ]
+  }
+}

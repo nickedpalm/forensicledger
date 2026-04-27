@@ -1,0 +1,248 @@
+[
+  {
+    "slug": "david-mcginnis-cpa-pc-portland",
+    "name": "David McGinnis, CPA, P.C.",
+    "city": "Portland",
+    "state": "OR",
+    "address": "",
+    "lat": 45.5152,
+    "lng": -122.6784,
+    "phone": "",
+    "website": "https://www.mcginniscpa.com",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Provides expert forensic accounting services in the Pacific Northwest and across the US, helping businesses and individuals follow the money with straightforward financial analysis.",
+    "certifications": [],
+    "services": [
+      "forensic accounting",
+      "financial services",
+      "expert analysis"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 15:06:06",
+    "sentiment": null
+  },
+  {
+    "slug": "forensic-accounting-services-portland",
+    "name": "Forensic Accounting Services",
+    "city": "Portland",
+    "state": "OR",
+    "address": "",
+    "lat": 45.5152,
+    "lng": -122.6784,
+    "phone": "5032242400",
+    "website": "https://www.fas-oregon.com",
+    "email": "Connect@FAS-Oregon.com",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Oregon's first CPA firm devoted exclusively to forensic accounting engagements, providing expert financial analysis and damage calculations for attorneys, insurance adjusters, and individuals in civil and criminal cases nationwide.",
+    "certifications": [],
+    "services": [
+      "financial analysis",
+      "damage calculations",
+      "expert testimony"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 15:06:06",
+    "sentiment": {
+      "label": "positive",
+      "score": 0.98,
+      "keywords": [
+        "professional expertise",
+        "successful settlements",
+        "compelling testimony",
+        "reliable and responsive",
+        "financial analysis",
+        "high-impact results"
+      ],
+      "highlights": [
+        {
+          "text": "95% of this success was because of you. What you demonstrated in judgment, instincts, and ability to communicate is unreal.",
+          "sentiment": "positive"
+        },
+        {
+          "text": "Your involvement and calculations doubled [the defendant's] initial offer.",
+          "sentiment": "positive"
+        },
+        {
+          "text": "Mr. Parker has consistently exhibited a level of expertise and professionalism which commands the respect of litigants, attorneys, and courts.",
+          "sentiment": "positive"
+        },
+        {
+          "text": "Your testimony was compelling, well-documented, and well thought out. The jury was obviously impressed.",
+          "sentiment": "positive"
+        }
+      ],
+      "summary": "Overwhelmingly positive reputation across 25+ testimonials with consistent praise for expert analysis, persuasive testimony, and measurable impact on case outcomes and settlements."
+    }
+  },
+  {
+    "slug": "geffen-mesher-portland",
+    "name": "Geffen Mesher",
+    "city": "Portland",
+    "state": "OR",
+    "address": "",
+    "lat": 45.5152,
+    "lng": -122.6784,
+    "phone": "1777216632",
+    "website": "https://gmco.com",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Premier Pacific Northwest firm offering Forensic & Integrity Services with Certified Fraud Examiners, helping businesses prevent fraud, embezzlement, and strengthen internal controls across various industries.",
+    "certifications": [],
+    "services": [
+      "fraud examinations",
+      "internal controls",
+      "embezzlement investigations"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 15:06:06",
+    "sentiment": null
+  },
+  {
+    "slug": "jessica-sands-cpa-llc-portland",
+    "name": "Jessica Sands, CPA, LLC",
+    "city": "Portland",
+    "state": "OR",
+    "address": "",
+    "lat": 45.5152,
+    "lng": -122.6784,
+    "phone": "",
+    "website": "https://www.jessicasandscpa.com",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Forensic accounting consulting services by Jessica Sands, CPA licensed in Oregon with Core Forensic Accounting Certificate, specializing in family law, divorce, financial analysis, fraud investigation, and business damages.",
+    "certifications": [],
+    "services": [
+      "family law and divorce",
+      "fraud investigation",
+      "business damages"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 15:06:06",
+    "sentiment": null
+  },
+  {
+    "slug": "morones-analytics-portland",
+    "name": "Morones Analytics",
+    "city": "Portland",
+    "state": "OR",
+    "address": "",
+    "lat": 45.5152,
+    "lng": -122.6784,
+    "phone": "",
+    "website": "https://moronesanalytics.com",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Forensic accounting firm specializing in accounting investigations for financial malfeasance, fraud including employee embezzlement, business valuations with financial reconstruction, and court testimony.",
+    "certifications": [],
+    "services": [
+      "fraud investigations",
+      "business valuations",
+      "financial reconstruction"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 15:06:06",
+    "sentiment": null
+  },
+  {
+    "slug": "thomas-roney-llc-portland",
+    "name": "Thomas Roney LLC",
+    "city": "Portland",
+    "state": "OR",
+    "address": "",
+    "lat": 45.5152,
+    "lng": -122.6784,
+    "phone": "1783035121",
+    "website": "https://thomasroneyllc.com",
+    "email": "troney@thomasroneyllc.com",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Firm employing Gregson Parker, CPA, founder of Oregon\u2019s first dedicated forensic accounting firm, specializing in damages calculation, lost earnings/profits, fraud, embezzlement, and expert testimony in courts across multiple states.",
+    "certifications": [],
+    "services": [
+      "damages determination",
+      "fraud investigations",
+      "expert testimony"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 15:06:06",
+    "sentiment": {
+      "label": "positive",
+      "score": 0.98,
+      "keywords": [
+        "experienced",
+        "excellent",
+        "helpful",
+        "qualified",
+        "expert witness",
+        "pivotal"
+      ],
+      "highlights": [
+        {
+          "text": "He is very experienced and qualified, and he gives excellent testimony in depositions and trials.",
+          "sentiment": "positive"
+        },
+        {
+          "text": "Your expert opinions and reports were pivotal to our success in this case.",
+          "sentiment": "positive"
+        },
+        {
+          "text": "Your work was very helpful, and very easy to present to (the other side).",
+          "sentiment": "positive"
+        },
+        {
+          "text": "I look forward to using you in the future.",
+          "sentiment": "positive"
+        }
+      ],
+      "summary": "Highly experienced expert witness with consistently excellent testimony, valued for professional expertise and instrumental case outcomes across multiple attorney testimonials."
+    }
+  }
+]

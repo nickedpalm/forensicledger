@@ -1,0 +1,96 @@
+[
+  {
+    "slug": "goodson-taylor-cpas-wilmington",
+    "name": "Goodson & Taylor CPAs",
+    "city": "Wilmington",
+    "state": "NC",
+    "address": "",
+    "lat": 39.7391,
+    "lng": -75.5398,
+    "phone": "(910) 392-4650",
+    "website": "https://www.goodsonandtaylorcpasnc.com/forensic-accounting",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Forensic accountants investigating financial fraud, providing litigation support, economic damages calculation, and asset tracing for businesses and individuals.",
+    "certifications": [],
+    "services": [
+      "financial fraud investigation",
+      "litigation support",
+      "economic damages calculation",
+      "asset tracing"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 15:03:09",
+    "sentiment": null
+  },
+  {
+    "slug": "red-bike-advisors-wilmington",
+    "name": "Red Bike Advisors",
+    "city": "Wilmington",
+    "state": "NC",
+    "address": "",
+    "lat": 39.7391,
+    "lng": -75.5398,
+    "phone": "910-256-3456",
+    "website": "https://redbikeadvisors.com/services/forensic-accounting-fraud-investigation",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Forensic accountants and fraud investigators uncovering financial fraud, supporting legal cases with CPAs, Certified Fraud Examiners, and financial forensics specialists.",
+    "certifications": [],
+    "services": [
+      "fraud investigation",
+      "asset tracing",
+      "financial forensics",
+      "litigation support"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 15:03:09",
+    "sentiment": {
+      "label": "positive",
+      "score": 0.97,
+      "keywords": [
+        "tax resolution",
+        "collaborative",
+        "financial clarity",
+        "reliable",
+        "professional",
+        "partnership"
+      ],
+      "highlights": [
+        {
+          "text": "Negotiated IRS debt from $40,000 down to $1,000",
+          "sentiment": "positive"
+        },
+        {
+          "text": "They don't treat me like a transaction, but like a partner",
+          "sentiment": "positive"
+        },
+        {
+          "text": "Eliminated any question of where company stands financially",
+          "sentiment": "positive"
+        },
+        {
+          "text": "I have nothing but good things to say about this firm",
+          "sentiment": "positive"
+        }
+      ],
+      "summary": "Red Bike Advisors consistently earns exceptional reviews for expert tax resolution, collaborative partnership approach, and delivering substantial financial clarity and savings to clients."
+    }
+  }
+]

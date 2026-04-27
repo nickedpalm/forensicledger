@@ -1,0 +1,127 @@
+[
+  {
+    "slug": "matson-driscoll-damico-us-llc-charlotte",
+    "name": "Matson, Driscoll & Damico (US), LLC",
+    "city": "Charlotte",
+    "state": "NC",
+    "address": "14045 Ballantyne Corporate Place, Suite 350, Charlotte, NC 28277",
+    "lat": 35.2271,
+    "lng": -80.8431,
+    "phone": "1503787440",
+    "website": "https://www.mdd.com/locations/charlotte/",
+    "email": "dbredeson@mdd.com",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Forensic accountants specializing in quantification of economic damages for lost profits, business interruption, fidelity claims, and catastrophe loss services.",
+    "certifications": [],
+    "services": [
+      "lost profits quantification",
+      "business interruption claims",
+      "fidelity claims",
+      "catastrophe loss services"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 15:03:09",
+    "sentiment": null
+  },
+  {
+    "slug": "meaden-moore-charlotte",
+    "name": "Meaden & Moore",
+    "city": "Charlotte",
+    "state": "NC",
+    "address": "14120 Ballantyne Corporate Place, Suite 140, Charlotte, North Carolina 28277",
+    "lat": 35.2271,
+    "lng": -80.8431,
+    "phone": "(704) 540-6400",
+    "website": "https://www.meadenmoore.com/about/locations/charlotte",
+    "email": "info@meadenmoore.com",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Leading forensic accounting firm providing investigative and consulting services including insurance claim evaluations, litigation support, dispute resolution, and fraud investigations.",
+    "certifications": [],
+    "services": [
+      "insurance claim evaluations",
+      "litigation support",
+      "dispute resolution",
+      "fraud and financial services"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 15:03:09",
+    "sentiment": null
+  },
+  {
+    "slug": "reagan-fvl-charlotte",
+    "name": "Reagan FVL",
+    "city": "Charlotte",
+    "state": "NC",
+    "address": "",
+    "lat": 35.2271,
+    "lng": -80.8431,
+    "phone": "704-376-3399",
+    "website": "https://reaganfvl.com/forensic-accounting/",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Forensic accounting, business valuation, and litigation support firm serving Charlotte, North Carolina.",
+    "certifications": [],
+    "services": [
+      "forensic accounting",
+      "business valuation",
+      "litigation support"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 15:03:09",
+    "sentiment": {
+      "label": "positive",
+      "score": 0.98,
+      "keywords": [
+        "professional",
+        "forensic accounting",
+        "dedicated",
+        "results-driven",
+        "reliable",
+        "compassionate"
+      ],
+      "highlights": [
+        {
+          "text": "Unqualified endorsement from 40-year litigation practitioner",
+          "sentiment": "positive"
+        },
+        {
+          "text": "Work product has been exemplary, discovered fraud and embezzlement",
+          "sentiment": "positive"
+        },
+        {
+          "text": "Knowledge of accounting standards at the highest level",
+          "sentiment": "positive"
+        },
+        {
+          "text": "Compassionate to his clients and dedicated to his work",
+          "sentiment": "positive"
+        }
+      ],
+      "summary": "Highly respected forensic accountant with exceptional expertise and consistent track record of delivering favorable outcomes, earning unqualified endorsements from experienced legal professionals."
+    }
+  }
+]

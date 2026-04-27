@@ -1,0 +1,139 @@
+[
+  {
+    "slug": "barnes-dennig-columbus",
+    "name": "Barnes Dennig",
+    "city": "Columbus",
+    "state": "OH",
+    "address": "",
+    "lat": 39.9622601,
+    "lng": -83.0007065,
+    "phone": "1700054575",
+    "website": "https://www.barnesdennig.com",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Offers fraud detection and forensic accounting services using accounting, audit, and investigative methods by Certified Fraud Examiners.",
+    "certifications": [],
+    "services": [],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 15:01:59",
+    "sentiment": {
+      "label": "positive",
+      "score": 0.96,
+      "keywords": [
+        "professional",
+        "responsive",
+        "knowledgeable",
+        "reliable",
+        "client-centered",
+        "trustworthy"
+      ],
+      "highlights": [
+        {
+          "text": "Friendly, compassionate, knowledgeable, professional, accurate, supportive partner.",
+          "sentiment": "positive"
+        },
+        {
+          "text": "Their dedication, expertise, and client-centered approach set them apart as a leader.",
+          "sentiment": "positive"
+        },
+        {
+          "text": "They answer every question quickly and with expertise that is impressive.",
+          "sentiment": "positive"
+        },
+        {
+          "text": "I highly recommend Barnes Dennig as a top-tier accounting firm that is completely reliable.",
+          "sentiment": "positive"
+        }
+      ],
+      "summary": "Barnes Dennig has an exceptional reputation as a highly professional, responsive, and trustworthy firm that delivers expert guidance while building strong personal relationships with clients."
+    }
+  },
+  {
+    "slug": "ohio-forensic-solutions-columbus",
+    "name": "Ohio Forensic Solutions",
+    "city": "Columbus",
+    "state": "OH",
+    "address": "",
+    "lat": 39.9612,
+    "lng": -82.9988,
+    "phone": "1773236747",
+    "website": "https://ohioforensicsolutions.com",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Forensic accounting firm led by Heather Deskins, specializing in uncovering accounting evidence for personal and business cases, including business valuation and services related to divorce.",
+    "certifications": [],
+    "services": [],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 15:01:59",
+    "sentiment": null
+  },
+  {
+    "slug": "powers-forensic-accounting-llc-columbus",
+    "name": "Powers Forensic Accounting, LLC",
+    "city": "Columbus",
+    "state": "OH",
+    "address": "",
+    "lat": 39.9612,
+    "lng": -82.9988,
+    "phone": "614-745-5192",
+    "website": "https://www.powersforensic.com",
+    "email": "chrissie.powers@powersforensic.com",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Specializes in fraud detection, business damages, wrongful death, injury or termination, and divorce; offers litigation support with team of CPAs, CFEs, CFFs, and CVA.",
+    "certifications": [],
+    "services": [],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 15:01:59",
+    "sentiment": {
+      "label": "positive",
+      "score": 0.95,
+      "keywords": [
+        "thorough",
+        "professional",
+        "prompt and accurate",
+        "cost-effective",
+        "forensic accounting expert",
+        "reliable"
+      ],
+      "highlights": [
+        {
+          "text": "She unraveled the ownership and receivables confusion and did an analysis of the compensation",
+          "sentiment": "positive"
+        },
+        {
+          "text": "I was very pleased that Ms. Powers both saw and understood my dilemma",
+          "sentiment": "positive"
+        },
+        {
+          "text": "I most heartily recommend Ms. Powers and her company for her work",
+          "sentiment": "positive"
+        }
+      ],
+      "summary": "Ms. Powers receives exceptional praise for her forensic accounting expertise, professionalism, and ability to resolve complex financial disputes efficiently while remaining cost-conscious."
+    }
+  }
+]

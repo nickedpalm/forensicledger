@@ -1,0 +1,117 @@
+[
+  {
+    "slug": "engel-engel-llp-los-angeles",
+    "name": "Engel & Engel LLP",
+    "city": "Los Angeles",
+    "state": "CA",
+    "address": "350 S Grand Avenue, Suite 3160, Los Angeles, CA 90071",
+    "lat": 34.0522,
+    "lng": -118.2437,
+    "phone": "(310) 277-2220",
+    "website": "https://engelandengel.com",
+    "email": "brandon@engelandengel.com",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0.0,
+    "review_count": 0,
+    "description": "Premier forensic accounting firm providing complex business litigation support, fraud investigations, economic damages, business valuation, and expert witness testimony.",
+    "certifications": [],
+    "services": [
+      "fraud investigations",
+      "economic damages",
+      "business valuation",
+      "expert witness testimony"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 15:00:45",
+    "sentiment": null
+  },
+  {
+    "slug": "ghj-los-angeles",
+    "name": "GHJ",
+    "city": "Los Angeles",
+    "state": "CA",
+    "address": "",
+    "lat": 34.0522,
+    "lng": -118.2437,
+    "phone": "310.873.1600",
+    "website": "https://www.ghjadvisors.com",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0.0,
+    "review_count": 0,
+    "description": "Forensic services including internal investigations for fraud, employee misconduct, litigation support, and expert witness services.",
+    "certifications": [],
+    "services": [
+      "internal fraud investigations",
+      "litigation support",
+      "expert witness testimony"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 15:00:45",
+    "sentiment": {
+      "label": "negative",
+      "score": 0.0,
+      "keywords": [
+        "no-review-content",
+        "navigation-only",
+        "testimonial-links",
+        "website-scaffolding"
+      ],
+      "highlights": [
+        {
+          "text": "Go to testimonial 2",
+          "sentiment": "neutral"
+        },
+        {
+          "text": "Connect with us on social media",
+          "sentiment": "neutral"
+        }
+      ],
+      "summary": "No actual review content found\u2014only website navigation and UI elements were captured, making sentiment analysis impossible."
+    }
+  },
+  {
+    "slug": "mdd-forensic-accountants-los-angeles",
+    "name": "MDD Forensic Accountants",
+    "city": "Los Angeles",
+    "state": "CA",
+    "address": "",
+    "lat": 34.0522,
+    "lng": -118.2437,
+    "phone": "+1 213.624.7118",
+    "website": "https://www.mdd.com",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0.0,
+    "review_count": 0,
+    "description": "Forensic accounting and litigation support specializing in economic damages, business interruption, personal injury, product liability, and catastrophe services.",
+    "certifications": [],
+    "services": [
+      "economic damages quantification",
+      "business interruption",
+      "catastrophe loss assessment",
+      "litigation consulting"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 15:00:45",
+    "sentiment": null
+  }
+]

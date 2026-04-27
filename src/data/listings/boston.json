@@ -1,0 +1,117 @@
+[
+  {
+    "slug": "matson-driscoll-damico-us-llc-boston",
+    "name": "Matson, Driscoll & Damico (US), LLC",
+    "city": "Boston",
+    "state": "MA",
+    "address": "10 High Street - Suite 1000, Boston, MA 02110",
+    "lat": 42.3601,
+    "lng": -71.0589,
+    "phone": "1652394568",
+    "website": "https://www.mdd.com/locations/boston/",
+    "email": "gricciardelli@mdd.com",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Provides forensic accounting services for business interruption, lost profits, marital disputes, fraud, financial condition, construction, personal injury, litigation, shareholder disputes, divorce, business valuations, Ponzi schemes, and embezzlement.",
+    "certifications": [],
+    "services": [
+      "business interruption",
+      "lost profits",
+      "fraud investigation",
+      "litigation support"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 15:02:53",
+    "sentiment": null
+  },
+  {
+    "slug": "meaden-moore-boston",
+    "name": "Meaden & Moore",
+    "city": "Boston",
+    "state": "MA",
+    "address": "33 Arch Street, Suite 3030, Boston, MA 02109-1424",
+    "lat": 42.3601,
+    "lng": -71.0589,
+    "phone": "(617) 357-7300",
+    "website": "https://www.meadenmoore.com/about/locations/boston",
+    "email": "info@meadenmoore.com",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Offers forensic and investigative accounting services with highly trained experts in Boston.",
+    "certifications": [],
+    "services": [
+      "forensic accounting",
+      "investigative accounting"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 15:02:53",
+    "sentiment": null
+  },
+  {
+    "slug": "walter-shuffain-boston",
+    "name": "Walter Shuffain",
+    "city": "Boston",
+    "state": "MA",
+    "address": "",
+    "lat": 42.3601,
+    "lng": -71.0589,
+    "phone": "893384.0204",
+    "website": "https://wsadvisors.com/services/business/forensic-accounting-and-litigation-support/",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Conducts forensic examinations, compiles evidence, identifies fraud, and provides litigation support for legal proceedings.",
+    "certifications": [],
+    "services": [
+      "fraud examination",
+      "litigation support",
+      "forensic accounting"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 15:02:53",
+    "sentiment": {
+      "label": "neutral",
+      "score": 0.55,
+      "keywords": [
+        "responsive",
+        "fraud consulting",
+        "expert testimony",
+        "flexible/tailored",
+        "legal services",
+        "damages calculation"
+      ],
+      "highlights": [
+        {
+          "text": "we need to respond quickly",
+          "sentiment": "positive"
+        },
+        {
+          "text": "We can tailor our services to each unique situation",
+          "sentiment": "positive"
+        }
+      ],
+      "summary": "Professional service description with neutral tone; emphasizes responsiveness and adaptability but lacks customer sentiment or outcome-based praise."
+    }
+  }
+]

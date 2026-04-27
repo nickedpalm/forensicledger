@@ -1,0 +1,93 @@
+[
+  {
+    "slug": "meaden-moore-san-francisco",
+    "name": "Meaden & Moore",
+    "city": "San Francisco",
+    "state": "CA",
+    "address": "",
+    "lat": 37.7749,
+    "lng": -122.4194,
+    "phone": "2160529665",
+    "website": "https://www.meadenmoore.com",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0.0,
+    "review_count": 0,
+    "description": "Forensic and investigative accounting firm using eDiscovery for fraud investigations and complex matters.",
+    "certifications": [],
+    "services": [
+      "fraud investigations",
+      "eDiscovery",
+      "litigation support"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 15:00:45",
+    "sentiment": {
+      "label": "positive",
+      "score": 0.98,
+      "keywords": [
+        "accurate",
+        "timely",
+        "professional",
+        "knowledgeable",
+        "reliable",
+        "excellent service"
+      ],
+      "highlights": [
+        {
+          "text": "Best Forensic Accounting Service. Hands down.",
+          "sentiment": "positive"
+        },
+        {
+          "text": "One of the best decisions for our business",
+          "sentiment": "positive"
+        },
+        {
+          "text": "Timely and accurate work product. Always presents well.",
+          "sentiment": "positive"
+        },
+        {
+          "text": "Appreciate their knowledge and promptness",
+          "sentiment": "positive"
+        }
+      ],
+      "summary": "Meaden & Moore receives universal praise across all reviews for professional expertise, accuracy, timeliness, and exceptional client service across accounting, forensic, and assurance work."
+    }
+  },
+  {
+    "slug": "sugarman-company-llp-san-francisco",
+    "name": "Sugarman & Company LLP",
+    "city": "San Francisco",
+    "state": "CA",
+    "address": "",
+    "lat": 37.7749,
+    "lng": -122.4194,
+    "phone": "1000674417",
+    "website": "https://www.sugarmanandcompanyllp.com",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0.0,
+    "review_count": 0,
+    "description": "Bay Area forensic CPAs providing expert forensic accounting services nationwide.",
+    "certifications": [],
+    "services": [
+      "forensic accounting",
+      "expert witness services"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 15:00:45",
+    "sentiment": null
+  }
+]

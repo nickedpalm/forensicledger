@@ -1,0 +1,33 @@
+[
+  {
+    "slug": "mdd-forensic-accountants-jacksonville",
+    "name": "MDD Forensic Accountants",
+    "city": "Jacksonville",
+    "state": "FL",
+    "address": "",
+    "lat": 30.3322,
+    "lng": -81.6557,
+    "phone": "+1 407.531.1050",
+    "website": "https://www.mdd.com/locations/orlando/",
+    "email": "kelkind@mdd.com",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Forensic accounting firm providing services to insurance, commercial, and legal sectors, managed by Kristine Elkind, CPA, MAFF, CFF.",
+    "certifications": [],
+    "services": [
+      "financial investigations",
+      "forensic accounting",
+      "litigation support"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 15:01:19",
+    "sentiment": null
+  }
+]

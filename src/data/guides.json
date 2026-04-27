@@ -1,0 +1,44 @@
+[
+  {
+    "slug": "forensic-accountant-rate-guide-2026",
+    "title": "Forensic Accountant Rate Guide 2026",
+    "subtitle": "Benchmark CFF Hourly Rates Across All US Markets",
+    "description": "Get 2026 pricing data on CFF-credentialed forensic accountants. Benchmark expert witness rates by region, experience level, and service type to make informed budget and settlement decisions.",
+    "bullets": [
+      "CFF rates: $300\u2013$500/hour; non-certified experts $200\u2013$400",
+      "50-state breakdown shows regional rate variations by expertise",
+      "Hourly, flat fee, and retainer pricing models explained",
+      "Budget expert witness costs before engagement negotiations begin"
+    ],
+    "pdfUrl": "/guides/pdf/forensic-accountant-rate-guide-2026.pdf",
+    "category": "Pricing"
+  },
+  {
+    "slug": "forensic-accountant-vetting-guide",
+    "title": "Forensic Accountant Vetting Guide",
+    "subtitle": "Vet CFF-credentialed experts by case type and trial experience",
+    "description": "Learn what credentials matter, which case types align with expertise, and how to screen for trial readiness. Protect your case\u2014and your budget\u2014by vetting before engagement.",
+    "bullets": [
+      "Verify CFF, CFE, and relevant state accounting board credentials",
+      "Review deposition transcripts and courtroom testimony experience before retention",
+      "Match expertise to case type: fraud, asset valuation, damages",
+      "Compare hourly rates, retainer minimums, and malpractice insurance coverage"
+    ],
+    "pdfUrl": "/guides/pdf/forensic-accountant-vetting-guide.pdf",
+    "category": "Vetting"
+  },
+  {
+    "slug": "forensic-accounting-engagement-checklist",
+    "title": "Forensic Accounting Engagement Checklist",
+    "subtitle": "Structure forensic engagements that withstand discovery and trial",
+    "description": "Whether preparing for trial or investigating a claim, forensic accounting engagements require clear scope, timelines, and deliverables. This checklist guides attorneys and insurers through essential steps for a defensible, court-ready analysis.",
+    "bullets": [
+      "Define scope before hourly fees exceed litigation budget",
+      "Verify CFF credentials and expert report standards upfront",
+      "Map data collection and expert witness timeline early",
+      "Prepare for discovery, deposition, and testimony demands"
+    ],
+    "pdfUrl": "/guides/pdf/forensic-accounting-engagement-checklist.pdf",
+    "category": "How-To"
+  }
+]

@@ -1,0 +1,77 @@
+[
+  {
+    "slug": "keiter-cpa-virginia-beach",
+    "name": "Keiter CPA",
+    "city": "Virginia Beach",
+    "state": "VA",
+    "address": "",
+    "lat": 36.8529,
+    "lng": -75.978,
+    "phone": "1775494803",
+    "website": "https://keitercpa.com",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Offers litigation support, forensic accounting, and financial investigations, specializing in valuations of closely held businesses, litigation consulting, and expert witness services. Primary market is Virginia and the southeast region.",
+    "certifications": [],
+    "services": [],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 15:03:28",
+    "sentiment": {
+      "label": "positive",
+      "score": 0.9,
+      "keywords": [
+        "Big 4 quality",
+        "personal touch",
+        "practical approach",
+        "professional service",
+        "local firm"
+      ],
+      "highlights": [
+        {
+          "text": "Big 4 quality services with the personal touch and practical approach",
+          "sentiment": "positive"
+        },
+        {
+          "text": "Personal touch and practical approach you can only find with a local firm",
+          "sentiment": "positive"
+        }
+      ],
+      "summary": "Keiter CPA is highly regarded for combining enterprise-level accounting expertise with personalized, practical service that distinguishes local firms from larger competitors."
+    }
+  },
+  {
+    "slug": "the-witherspoon-group-llc-virginia-beach",
+    "name": "The Witherspoon Group, LLC",
+    "city": "Virginia Beach",
+    "state": "VA",
+    "address": "",
+    "lat": 36.8529,
+    "lng": -75.978,
+    "phone": "",
+    "website": "",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Specializes in accounting, business valuation, and economic damages including forensic accounting, asset tracing, fraud investigations, lost profits, lost earnings, business interruption, appraisal and valuation, loss of business value, marital dissolution, partnership disputes, bankruptcy, and restructuring.",
+    "certifications": [],
+    "services": [],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 15:03:28",
+    "sentiment": null
+  }
+]
